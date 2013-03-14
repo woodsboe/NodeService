@@ -1,0 +1,974 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"gre",
+				"greyBorder"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"in",
+				"instructions"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"body",
+				"bodyFont"
+			],
+			[
+				"cp",
+				"cur-p	cursor: pointer;"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"tx",
+				"text-align"
+			],
+			[
+				"ls",
+				"list-style"
+			],
+			[
+				"bask",
+				"basketData"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"grey",
+				"greyText"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"is",
+				"isMobile"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"top",
+				"top"
+			],
+			[
+				"fl",
+				"fl-l	float: left;"
+			],
+			[
+				"deli",
+				"deliveryInfo"
+			],
+			[
+				"cl",
+				"cl-l	clear: left;"
+			],
+			[
+				"delivery",
+				"deliveryService"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"mi",
+				"mixin"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"d",
+				"d-b	display: block;"
+			],
+			[
+				"common",
+				"commonSprite"
+			],
+			[
+				"bag",
+				"background-color"
+			],
+			[
+				"sand",
+				"sandLight"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"T",
+				"Translate"
+			],
+			[
+				"cur",
+				"cur	cursor: ${pointer};"
+			],
+			[
+				"be",
+				"before"
+			],
+			[
+				"Invoi",
+				"invoiceAddress"
+			],
+			[
+				"re",
+				"regexPattern"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"che",
+				"checkoutCountry"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"page",
+				"pageBody"
+			],
+			[
+				"de",
+				"descWrapper"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"render",
+				"renderThumbs"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"thun",
+				"thumbPaging"
+			],
+			[
+				"thum",
+				"thumbsTotal"
+			],
+			[
+				"thu",
+				"thumbContainer"
+			],
+			[
+				"event",
+				"eventAddToBasket"
+			],
+			[
+				"pro",
+				"productListContainer"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"image",
+				"imageContainer"
+			],
+			[
+				"ima",
+				"imageContainer"
+			],
+			[
+				"lo",
+				"loader"
+			],
+			[
+				"Image",
+				"imageData"
+			],
+			[
+				"get",
+				"getImageData"
+			],
+			[
+				"look",
+				"lookbookImage"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"main",
+				"mainContent"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"div",
+				"div"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"add",
+				"addressData"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"retu",
+				"returnData"
+			],
+			[
+				"js",
+				"jsForgotPasswordBox"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Ad",
+				"address"
+			],
+			[
+				"addre",
+				"addressData"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"rem",
+				"remove"
+			],
+			[
+				"po",
+				"getPos"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"pr",
+				"prev"
+			],
+			[
+				"adre",
+				"addressData"
+			],
+			[
+				"ma",
+				"mainMenu"
+			],
+			[
+				"pho",
+				"phones"
+			],
+			[
+				"t",
+				"tr	Tag"
+			],
+			[
+				"tr",
+				"tr"
+			],
+			[
+				"ph",
+				"phones"
+			],
+			[
+				"pag",
+				"paggingText"
+			],
+			[
+				"borde",
+				"border-color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"border-bot",
+				"border-bottom"
+			],
+			[
+				"border-bottom-",
+				"border-bottom-width"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"bu",
+				"buttonBorder"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"se",
+				"secondaryFont"
+			],
+			[
+				"pri",
+				"primaryFont"
+			],
+			[
+				"backg",
+				"background-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/MSBuild/MSBuild.sublime-build",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"pret",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"set scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ti",
+				"TidyHTML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"est html",
+				"Set Syntax: HTML"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"zen",
+				"Zen Coding: Zen as you type"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"set asp",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"set sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"C#",
+				"Set Syntax: C#"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/Components/Mobile/SkuRelatedSkusControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/Components/SkuRelatedSkusControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/ContactFormularControl.ascx.cs",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Web.config",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/Components/ColorPicker.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/Mobile/SkuDetailsControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Javascript/3rdParty/swipe.js",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Layouts/MobileMain.aspx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Javascript/Swipe.js",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/SkuDetailsControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/Checkout/BuyerInformationControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/CSS/common.scss",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Layouts/MainPage.aspx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/Checkout/Pensio/Components/PaymentForm.aspx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/Checkout/BasketOverviewControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/CSS/mobileCommon.scss",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/Components/Mobile/SkuControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Javascript/basket.js",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/Checkout/Terminal/TerminalControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/Checkout/Components/ShippingAgentControls/GLSShippingAgentControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/Components/Mobile/ListSkusControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Javascript/mobileGlobalFunctions.js",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/Components/Mobile/MiniBasketControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/Mobile/PickedSkusControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Mobile/search.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Email/OrderReceipt/EmailOrderReceiptControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/Checkout/Components/OrderOrderLineControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Navigation/Components/Mobile/MainMenuNodeControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Navigation/Components/Mobile/MainMenuControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/Checkout/Components/BasketOrderLinesControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Javascript/helper.js",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/TopGraphicControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa/Tradelink/Dictionary/Translations.cs",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Renderings/ContentElements/SpotBox.xslt",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/Checkout/Components/OrderOrderLinesControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/Checkout/OrderConfirmationControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Javascript/validate.js",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/PickedSkusControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Webdanmark.NoaNoa.Website.csproj",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Navigation/Components/MetaMenuControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Javascript/CONTROLS.JS",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Javascript/checkout.js",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/CSS/common.css",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Renderings/ContentPages/TradelinkPage.xslt",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Javascript/completethelook.js",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Javascript/Templates/CompleteTheLookProduct.hbs",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Layouts/MainCheckoutPage.aspx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/CSS/_completeTheLook.scss",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/CompleteTheLook/CompleteTheLook.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Javascript/Templates/Helpers/stringShortener.js",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Javascript/globalFunctions.js",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Javascript/hbs.js",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Javascript/require.js",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Javascript/underscore.js",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Javascript/hbs_old.js",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Javascript/Template/CompleteTheLookProduct.hbs",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Javascript/Template/Helpers/stringShortener.js",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Javascript/Template/CompleteTheLookImage.hbs",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Content elements/ProductSlider.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Content elements/Product slider.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Javascript/Templates/CompleteTheLookImage.hbs",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa/Schedule/PublishToSolrJob.cs",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Javascript/Templates/MiniCart.hbs",
+		"/C/Users/nis/Desktop/common1_1_search_result.css",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/NoaNoaClub/SignupSubscriberControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/CSS/completeTheLook.css",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/CSS/completeTheLook.scss",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/Components/MiniBasketControl.ascx",
+		"/D/Git/NoaNoa/Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/Components/SkuControl.ascx",
+		"/D/Git/NoaNoa/config.rb",
+		"/D/Git/NoaNoa/.gitignore",
+		"/C/Users/nis/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Git/Kaufmann/Webdanmark.Kaufmann.Website/layouts/Controls/Checkout/OrderPreviewView.ascx.cs",
+		"/D/Git/Kaufmann/Webdanmark.Kaufmann.Website/layouts/Controls/Mobile/Checkout/Controls/BasketSkuLineControl.ascx",
+		"/D/Git/Kaufmann/Webdanmark.Kaufmann.Website/layouts/Controls/Mobile/Checkout/Controls/OrderSkuLineControl.ascx",
+		"/D/Git/Kaufmann/Webdanmark.Kaufmann.Website/layouts/Controls/Mobile/Checkout/OrderConfirmationView.ascx",
+		"/D/Git/Kaufmann/Webdanmark.Kaufmann.Website/Frontend/Mobile/Css/_common.scss",
+		"/D/Git/Kaufmann/Webdanmark.Kaufmann.Website/Frontend/Mobile/Css/kaufmann.scss",
+		"/D/Git/Kaufmann/Webdanmark.Kaufmann.Website/layouts/Controls/Mobile/MobileFooter.ascx",
+		"/D/Git/Kaufmann/Webdanmark.Kaufmann.Website/Frontend/Mobile/Css/axel.scss",
+		"/D/Git/Kaufmann/Webdanmark.Kaufmann.Website/layouts/Controls/Mobile/Checkout/DeliveryInformationView.ascx",
+		"/D/Git/Kaufmann/Webdanmark.Kaufmann.Website/layouts/Controls/Mobile/MobileSkuView.ascx",
+		"/D/Git/Kaufmann/Webdanmark.Kaufmann.Website/layouts/Controls/Mobile/ProductList.ascx",
+		"/C/Users/nis/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Git/Kaufmann/Webdanmark.Kaufmann.Website/layouts/Controls/Mobile/DealerPage.ascx",
+		"/D/Git/Kaufmann/Webdanmark.Kaufmann.Website/layouts/Controls/Mobile/Page.ascx",
+		"/D/Git/Kaufmann/Webdanmark.Kaufmann.Website/Frontend/Mobile/Css/quintess.scss",
+		"/D/Git/Kaufmann/Webdanmark.Kaufmann.Website/Frontend/Mobile/Css/quint.scss",
+		"/D/Git/Kaufmann/config.rb",
+		"/D/Git/Kaufmann/Webdanmark.Kaufmann.Website/layouts/Controls/Mobile/Checkout/Controls/GiftCardEditControl.ascx",
+		"/D/Git/Kaufmann/Webdanmark.Kaufmann.Website/layouts/Controls/Mobile/Checkout/Controls/OrderDisplayTotalControl.ascx",
+		"/D/Git/Kaufmann/Webdanmark.Kaufmann.Website/layouts/Controls/Checkout/Controls/OrderDisplayTotalControl.ascx",
+		"/D/Git/Kaufmann/Webdanmark.Kaufmann.Website/layouts/Controls/Checkout/Controls/GiftCardEditControl.ascx",
+		"/D/Git/Kaufmann/Webdanmark.Kaufmann.Website/layouts/Controls/Mobile/Checkout/OrderPreviewView.ascx",
+		"/D/Git/Kaufmann/Webdanmark.Kaufmann.Website/layouts/Controls/Checkout/OrderPreviewView.ascx",
+		"/D/Git/Kaufmann/Webdanmark.Kaufmann.Website/xsl/Misc/Topgraphic.xslt",
+		"/D/Git/Kaufmann/.gitignore",
+		"/D/Git/woodsboe/angular-phonecat/app/index.html",
+		"/D/Git/woodsboe/angular-phonecat/app/js/controllers.js",
+		"/D/Git/woodsboe/angular-phonecat/app/default.html",
+		"/D/Git/woodsboe/angular-phonecat/test/e2e/scenarios.js",
+		"/D/GitHub/woodsboe/angular-phonecat/app/default.html",
+		"/D/KaufmannMobile/kaufmann.website/Frontend/Mobile/Css/_MediaHelpersPrint.scss",
+		"/D/KaufmannMobile/kaufmann.website/Frontend/Mobile/Css/config.rb",
+		"/D/KaufmannMobile/kaufmann.website/Frontend/Mobile/Css/_reset.scss",
+		"/D/KaufmannMobile/kaufmann.website/Frontend/Mobile/Javascript/helper.js",
+		"/D/KaufmannMobile/kaufmann.website/Frontend/Mobile/Css/Mobile.scss",
+		"/D/KaufmannMobile/kaufmann.website/Frontend/Mobile/Javascript/script.js",
+		"/D/KaufmannMobile/kaufmann.website/Frontend/Mobile/Javascript/plugins.js",
+		"/D/KaufmannMobile/index.html",
+		"/D/KaufmannMobile/css/style.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"D:\\Git\\NoaNoa\\Webdanmark.NoaNoa.Website\\",
+			"D:\\Git\\NoaNoa\\Webdanmark.NoaNoa.Website\\javascript",
+			"D:\\Git\\NoaNoa\\Webdanmark.NoaNoa.Websitejavascript",
+			"D:\\Git\\NoaNoa\\Webdanmark.NoaNoa.Website"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"selectStockCount",
+			"div",
+			"col2",
+			"span",
+			"d",
+			"div",
+			"<div>",
+			"div",
+			"headline",
+			"div",
+			"span",
+			"div",
+			"li",
+			"ul",
+			"div",
+			"slideWrapper",
+			"');",
+			"<div class=\"description\">\n			<%= Translations.ProductDetail.Product.Model.Translate() %> : <%= Sku.StyleId %><br />\n			<%= Translations.ProductDetail.Product.Materials.Translate() %> : <%= Sku.Composition[WebContext.Request.Language.GetLanguage()] %><br />\n			<%= Translations.ProductDetail.Product.Color.Translate() %> : <%= Colors.First(c => c.SkuId.Substring(0 , c.SkuId.Length - 3) == Sku.Id.Substring(0, c.SkuId.Length - 3)).Color  %>\n		</div>",
+			"section",
+			"56%",
+			"additio",
+			"				<",
+			"p",
+			"div",
+			"$('#dropdownOverlay')",
+			"$('.siteTop .mainMenu')",
+			"creditCartWrapper",
+			"z-inde",
+			"z-in",
+			"span",
+			"a",
+			"span",
+			"<li class=\"menuItem\">Women</li>",
+			"rowpadding",
+			"80%",
+			"20%",
+			"a",
+			"deu",
+			"eng",
+			"dan",
+			"eng",
+			"dan",
+			"splash freeFreight",
+			"splash freeFreight large",
+			"console",
+			"span",
+			"div",
+			"product",
+			"span",
+			"deliveryService",
+			"paymentType",
+			"payment",
+			"span",
+			"Checkout",
+			"mixin",
+			"modal",
+			"phoneInfo",
+			"phoneInfo destroy",
+			"modal",
+			"country",
+			"SITEMAP",
+			"console",
+			"publish",
+			"require",
+			"compile",
+			"i18",
+			"template",
+			"roundNumber",
+			"error",
+			"type",
+			"errorMessages",
+			"\"number\": \"<%= Translations.Checkout.BuyerInformation.ValidationErrorMessageNumber.Translate() %>\",",
+			"error.type = \"length\";",
+			"errorType",
+			"splash",
+			"headline",
+			"errorMessages",
+			"var errorMessages",
+			"basket.updating",
+			"subscribe",
+			"publish",
+			"LookbookImageId",
+			".gif",
+			"tipsAndTricksResults_upper",
+			"inspirationResults_upper",
+			"videoResults_upper",
+			"tipsAndTricksResults_upper",
+			"basketTotal",
+			"basketAmount",
+			"DiscountAumount",
+			"						\"",
+			"country",
+			"splashes",
+			"span",
+			">\n</",
+			"p",
+			"div",
+			";\n",
+			"COMPLETE THE LOOK",
+			"JOBPAGE",
+			"freight",
+			".toolMenu",
+			"toolMenu",
+			"basketTotal",
+			"MiniBasketControl",
+			"itemsText",
+			"miniBasketTotal",
+			"tool menu",
+			"splash",
+			"SPLASHES",
+			"NEWS",
+			"console",
+			"showLogin",
+			"$('#address input:eq(3)').val(addressData.d.LastName);",
+			".mainMenu",
+			".sear",
+			"colorText",
+			"rowMargin",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"rowPadding"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csspecific":
+	{
+		"height": 94.0
+	},
+	"output.exec":
+	{
+		"height": 340.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"skurelatedskuscontrol",
+				"Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/Components/Mobile/SkuRelatedSkusControl.ascx"
+			],
+			[
+				"translations",
+				"Webdanmark.NoaNoa/Tradelink/Dictionary/Translations.cs"
+			],
+			[
+				"web.con",
+				"Webdanmark.NoaNoa.Website/Web.config"
+			],
+			[
+				"ter",
+				"Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/Checkout/Terminal/TerminalControl.ascx"
+			],
+			[
+				"comm",
+				"Webdanmark.NoaNoa.Website/CSS/common.scss"
+			],
+			[
+				"translat",
+				"Webdanmark.NoaNoa/Tradelink/Dictionary/Translations.cs"
+			],
+			[
+				"pensio",
+				"Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/Checkout/Pensio/Components/PaymentForm.aspx"
+			],
+			[
+				"skude",
+				"Webdanmark.NoaNoa.Website/Sublayouts/Tradelink/SkuDetailsControl.ascx"
+			],
+			[
+				"meta",
+				"Webdanmark.NoaNoa.Website/Sublayouts/Navigation/Components/MetaMenuControl.ascx"
+			],
+			[
+				"main",
+				"Webdanmark.NoaNoa.Website/Layouts/MainPage.aspx"
+			],
+			[
+				"compl",
+				"Webdanmark.NoaNoa.Website/Javascript/completethelook.js"
+			],
+			[
+				"publish",
+				"Webdanmark.NoaNoa/Schedule/PublishToSolrJob.cs"
+			],
+			[
+				"slider",
+				"Webdanmark.NoaNoa.Website/Sublayouts/Content elements/ProductSlider.ascx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 295.0,
+	"status_bar_visible": true
+}
